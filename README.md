@@ -1,5 +1,4 @@
-# Virtual Steering Wheel
-
+# Virtual Game Controller
 Control any PC racing game with hand gestures — no controller needed. Just your webcam.
 
 Uses MediaPipe hand tracking + OpenCV to turn your hands into a steering wheel. Make fists to accelerate, open hands to brake, tilt to steer.
